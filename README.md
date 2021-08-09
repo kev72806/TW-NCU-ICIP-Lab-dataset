@@ -3,7 +3,7 @@
 This is a small image dataset designed for outdoor street view segmentation in Taiwan. In order to train the Fast-SCNN from scratch using in our research, we took photos around the Taoyuan High Speed Rail by ZED2 RGB-D camera. 
 The necessary categories for outdoor walking are sidewalk, crosswalk, stair, and road. Therefore, the data sets we collect are these 4 types; in order to maintain the robustness of these 4 categories, we collected image data of four seasons, daytime, and no rain. In addition, the angle of view is mainly on the sidewalk and crosswalk.
 
-Download are available at: https://drive.google.com/file/d/1uBV5Jslml_Imvf0WVRnjZE6XPOf1ci09/view?usp=sharing
+Download are available at: https://drive.google.com/file/d/1nWPJmbmxeD5K3W9ENsDtN0eQYwx6K8DA/view?usp=sharing
 
 
 ## Usage
